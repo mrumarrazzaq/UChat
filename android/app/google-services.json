@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57904302246",
+    "project_id": "uchat-365d",
+    "storage_bucket": "uchat-365d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57904302246:android:258811f7cca086234d0c67",
+        "android_client_info": {
+          "package_name": "com.uchat365.uchat365"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57904302246-980ade60io1eotk42o20isql93l0gdhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABdtuzhnBKRdkmbr2PT-Ank0_IyoaaLCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57904302246-980ade60io1eotk42o20isql93l0gdhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
